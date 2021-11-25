@@ -234,15 +234,17 @@ h1 {
   user-select: none;
 }
 .eth-btn .eth-icon-svg {
-  -webkit-filter: invert(100%); /* Safari/Chrome */
-  filter: invert(100%);
+  /* -webkit-filter: invert(100%); Safari/Chrome */
+  /* filter: invert(100%); */
   position: absolute;
   margin-top: 11px;
   margin-left: 11px;
-  width: 18px !important;
-  height: 18px !important;
+  width: 28px !important;
+  height: 28px !important;
   user-select: none;
-  padding-left: 10px;
+  padding-left: 4px;
+  padding-bottom: 6px;
+  padding-right: 6px;
 }
 .eth-btn .btn-text {
   float: right;

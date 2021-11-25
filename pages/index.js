@@ -203,11 +203,11 @@ export default function Home() {
                   <LikeBtn likeCount={0} />
 
                   <div className="flex items-center pl-18">
-                    <div className="bnb-btn ">
-                      <div className="bnb-icon-wrapper">
+                    <div className="eth-btn ">
+                      <div className="eth-icon-wrapper">
                         <img
-                          className="bnb-icon-svg"
-                          src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png"
+                          className="eth-icon-svg"
+                          src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=014"
                         />
                       </div>
                       <p className="btn-text">
